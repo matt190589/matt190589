@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matt190589
+- 👋 Hi, I’m @matt190589 or Matt when I'm not on Github :)
 - 👀 I’m interested in becoming a developer or working as a Project Manager within Tech. My previous experience has been largely focused in education and education management.
 - 🌱 I’m currently preparing to start a Bootcamp at the end of the month (Sept 2022). So far, I've done self-directed learning in HTML, CSS & Python. 
 - I'm keen and very enthusiastic about building my skills in these areas but also in databases, servers and real-world projects.   
