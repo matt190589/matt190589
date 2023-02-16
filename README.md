@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">💬 GitHub Stats</h2>
 <p align="center" align='right'>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=matt190589&theme=sea" />
+</p>
+<p align="center" align='right'>
   <img src="https://www.codewars.com/users/matt190589/badges/large"/>
 </p>
 
