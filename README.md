@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <p align="center"> (Open for work)</p>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 Short Bio</h2>
 <p align="center">
   <samp> Hi, I’m @matt190589 or Matt when I'm not on Github :) I’m a full stack developer with experience and I began my coding journey about 6 months ago. My previous experience has been largely based in international education and education management. I'm an experienced Project Manager and have entered Tech to combine coding with entrepreneurial opportunities. I'm keen and enthusiastic about building my skills in these areas but also in databases, servers and real-world projects. 
   </samp>
