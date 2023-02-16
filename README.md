@@ -2,7 +2,6 @@
 - 👀 I’m interested in becoming a full stack developer or working in project management in Tech. My previous experience has been largely based in international education and education management. I'm an experienced Project Manager and have entered Tech to combine coding with entrepreneurial opportunities.
 - 🌱 As a recent Bootcamp graduate, I've done self-directed learning in HTML, CSS & Python but my skills have developed over the past few months in Javascript, Nodejs, React, PostgresSQL  and Nextjs. 
 - I'm keen and very enthusiastic about building my skills in these areas but also in databases, servers and real-world projects.   
-- 📫 How to reach me- I'm available on Linkedin: https://www.linkedin.com/in/matt-doherty-aa611974/
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matt190589&theme=sea)](https://git.io/streak-stats)
 
