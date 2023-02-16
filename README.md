@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/matt190589/matt190589/blob/main/Github%20readme%20gif.gif?raw=true" alt="header"/>
+  <img src="https://github.com/matt190589/matt190589/blob/main/Github_personal_cr.gif?raw=true" alt="header with my name and job title"/>
 </div>
 <p align="center"> (Open for work)</p>
 
