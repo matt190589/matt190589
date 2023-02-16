@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://www.canva.com/design/DAFaxZdp7co/Z0J1FGD_FnJ-pDnwT0kVlA/edit?utm_content=DAFaxZdp7co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="header"/>
+  <img src="https://github.com/matt190589/matt190589/blob/main/Github%20readme%20gif.gif?raw=true" alt="header"/>
 </div>
 <p align="center"> (Open for work)</p>
 
