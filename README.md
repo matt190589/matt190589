@@ -4,6 +4,8 @@
 - I'm keen and very enthusiastic about building my skills in these areas but also in databases, servers and real-world projects.   
 - 📫 How to reach me- I'm available on Linkedin: https://www.linkedin.com/in/matt-doherty-aa611974/
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matt190589&theme=sea)](https://git.io/streak-stats)
+
 <!---
 matt190589/matt190589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
