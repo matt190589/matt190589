@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> 👨‍💻 Short Bio</h2>
 <p align="center">
-  <samp> Hi, I’m @matt190589 or Matt when I'm not on Github :) I’m a full stack developer, beginning my coding journey about 6 months ago. My previous experience is largely in project management and training in international education and education management. I'm an experienced Project Manager and have entered Tech to combine coding with entrepreneurial opportunities. I'm keen and enthusiastic about building my skills in these areas but also in databases, servers and real-world projects. 
+  <samp> Hi, I’m @matt190589 or Matt when I'm not on Github :) I’m a full stack developer, beginning my coding journey in 2022. My previous experience is largely in project management and training in international education and education management. I'm an experienced Project Manager and have entered Tech to combine coding with entrepreneurial opportunities. I'm excited and enthusiastic about building my skills in these areas but also solving real-world problems with Tech solutions. 
   </samp>
   <br> <br>
 </p>
