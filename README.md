@@ -7,11 +7,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img height="300px" src="https://github.com/matt190589/matt190589/blob/main/Github_personal_cr.gif?raw=true" alt="header with my name and job title"/>
 </div>
-<p align="center"> (Open for work)</p>
 
 <h2 align="center"> 👨‍💻 Short Bio</h2>
 <p align="center">
-  <samp> Hi, I’m @matt190589 or Matt when I'm not on Github :) I’m a full stack developer, beginning my coding journey in 2022. My previous experience is largely in project management and training in international education and education management. I'm an experienced Project Manager and have entered Tech to combine coding with entrepreneurial opportunities. I'm excited and enthusiastic about building my skills in these areas but also solving real-world problems with Tech solutions. 
+  <samp> Hi, I’m @matt190589 or Matt when I'm not on Github :) I’m a full stack developer, beginning my coding journey in 2022. My previous experience is largely in project management and training in international education and education management. I'm an experienced Project Manager and have entered Tech to combine coding with entrepreneurial opportunities. I'm excited and enthusiastic about building my skills in these areas but also solving real-world problems with tech solutions. 
   </samp>
   <br> <br>
 </p>
@@ -24,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Javascript, React, Nextjs, Nodejs, Expressjs, Git, Github, TailwindCSS, ProgresSQL, MongoDB React Native, Netlify, Cypress, Trello.</p>
+<p align="center">Javascript, PHP, React, Nextjs, Nodejs, Expressjs, Git, Github, TailwindCSS, ProgresSQL, mySQL, React Native, Vercel, Cypress, Trello.</p>
 <hr>
 
 <h2 align="center">💬 GitHub Stats</h2>
